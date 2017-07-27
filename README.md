@@ -1,4 +1,4 @@
-# Similarity_Search
+# Image_Similarity_Search
 Similarity Search using Histogram Normalization
 
 Feature extraction is to extract the color histogram value from an image. The color histogram
